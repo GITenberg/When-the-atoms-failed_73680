@@ -1,0 +1,53 @@
+_repo: When-the-atoms-failed_73680
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wessolowski, Hans Waldemar
+    aliases:
+    - Wesso
+    - Wesso, H. W.
+    - Wesso, H.W.
+    birthdate: 1893
+    deathdate: 1948
+    gutenberg_agent_id: '32703'
+    url: http://www.gutenberg.org/2009/agents/32703
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+creator:
+  author:
+    agent_name: Campbell, John W., Jr. (John Wood)
+    aliases:
+    - Stuart, Don A.
+    - Campbell, John Wood
+    - Campbell, John W. (John Wood)
+    birthdate: 1910
+    deathdate: 1971
+    gutenberg_agent_id: '9112'
+    url: http://www.gutenberg.org/2009/agents/9112
+    wikipedia: https://en.wikipedia.org/wiki/John_W._Campbell
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73680'
+language: en
+pgterms:marc905: 20240330040913campbell
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bE.P. Inc., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: When the atoms failed
+url: http://www.gutenberg.org/ebooks/73680
