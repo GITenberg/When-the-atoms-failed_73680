@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '32703'
     url: http://www.gutenberg.org/2009/agents/32703
     wikipedia: https://en.wikipedia.org/wiki/Hans_Waldemar_Wessolowski
+covers:
+- cover_type: archival
+  image_path: 73680-h/images/cover.jpg
 creator:
   author:
     agent_name: Campbell, John W., Jr. (John Wood)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9112
     wikipedia: https://en.wikipedia.org/wiki/John_W._Campbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73680#When-the-atoms-failed
 gutenberg_issued: '2024-05-24'
 gutenberg_type: Text
 identifiers:
